@@ -10,7 +10,7 @@ The indicators were collected for a period of 3 semesters, between January 2021 
 
 ### Project Team:
 
-> > Prof. Madson Bruno da Silva Monte
+> Prof. Madson Bruno da Silva Monte
 School of Economy, Administration and Accounting
 Federal University of Alagoas
 
