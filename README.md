@@ -10,32 +10,22 @@ The indicators were collected for a period of 3 semesters, between January 2021 
 
 ### Project Team:
 
-> Prof. Madson Bruno da Silva Monte\
+> Eng. Juan Gabriel França Canon <br/>
+Technology Axis - Campus do Sertão <br/>
+Federal University of Alagoas <br/>
 
-School of Economy, Administration and Accounting\
+> Eng. Thiago Lima de Barros <br/>
+Technology Axis - Campus do Sertão <br/>
+Federal University of Alagoas <br/>
 
-Federal University of Alagoas\
+> Prof. Madson Bruno da Silva Monte <br/>
+School of Economy, Administration and Accounting <br/>
+Federal University of Alagoas <br/>
 
-> Prof. Robério josé Rogério dos Santos\
+> Prof. Robério José Rogério dos Santos <br/>
+Technology Axis - Campus do Sertão <br/>
+Federal University of Alagoas <br/>
 
-Technology Axis - Campus do Sertão\
-
-Federal University of Alagoas\
-
-> Prof. Victor Diogho Heuer de Carvalho\
-
-Technology Axis - Campus do Sertão\
-
-Federal University of Alagoas\
-
-> Eng. Juan Gabriel França Canon\
-
-Technology Axis - Campus do Sertão\
-
-Federal University of Alagoas\
-
-> Eng. Thiago Lima de Barros\
-
-Technology Axis - Campus do Sertão\
-
-Federal University of Alagoas\
+> Prof. Victor Diogho Heuer de Carvalho <br/>
+Technology Axis - Campus do Sertão <br/>
+Federal University of Alagoas <br/>
